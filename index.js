@@ -1,6 +1,6 @@
 // index.js
 const argv = require("yargs").argv;
-const contactsService = require("./contacts")
+const contactsService = require("./contacts.js");
 
 // TODO: рефакторить
 const invokeAction = async ({ action, id, name, email, phone }) => {

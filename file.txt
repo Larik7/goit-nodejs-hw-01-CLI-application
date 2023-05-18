@@ -1,0 +1,4 @@
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larik7/goit-nodejs-hw-01-CLI-application.git"
+  },
